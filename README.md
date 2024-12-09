@@ -21,7 +21,7 @@ This project implements a `ReceiptProcessor` class that extracts structured data
 
 ## Installation
 ### Prerequisites
-1. Python 3.7+
+1. Python 3.11.2
 2. Install required libraries:
    ```bash
    pip install torch transformers pillow requests matplotlib
